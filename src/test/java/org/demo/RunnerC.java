@@ -18,6 +18,14 @@ public class RunnerC {
 		System.out.println("Ignore count of the testcases :" +r.getIgnoreCount());
 		System.out.println("Success count of Testcases :" +(r.getRunCount()-r.getFailureCount()));
 		
+		
+
+	}
+	
+	private void test() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Testing");
 
 	}
 
